@@ -9,7 +9,7 @@
 <h3> About Me</h3>
 
 
-- 🔭 I’m currently working on a collaborative thinking tool and on a NFT collection deployed on the ethereum blockchain
+- 🔭 I’m currently working on a collaborative thinking tool and on an NFT collection deployed on the ethereum blockchain
 
 - 🌱 I’m currently learning Data Science and everything Web3 related
  
