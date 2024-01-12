@@ -2,14 +2,12 @@
 <p align='center'>
 
 </p>
-<div size='20px'>22 years old student in software engineering / data science
+<div size='20px'>24 years old student in software engineering / data science
 </div>
 
 
 <h3> About Me</h3>
 
-
-- 🔭 Currently working @ Birds For Change
 
 - 🌱 Learning Data Science and everything Web3 related
  
